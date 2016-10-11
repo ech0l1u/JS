@@ -13,4 +13,7 @@
 ps：github对md文件格式显示真的好宽容啊，像我以前#后面空格都没有，代码用pre和code，链接用a，（当然我现在又把MD里链接的格式给忘了）
 都能显示正常
 
+-------------------------------------------------------
+要预览请先复制好链接再<b>按住CTRL键</b>戳<a href="http://htmlpreview.github.io/" target="new_tab" stylt="text_decoration:none">这里</a>再把链接粘贴进去就行了</br>
+因为<code>&#60;a href="http://..." target="not null"&#62;</code>里<q>target=...</q>在MD里好像不起作用
 
